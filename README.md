@@ -1,2 +1,2 @@
-# OOP---Encapsulation
-Bài tập Class Luỹ thừa bla
+# OOP-Encapsulation
+Bản raw ~
